@@ -9,4 +9,3 @@
 链接如下
 - https://github.com/QwenLM/Qwen2.5
 - https://github.com/opendatalab/MinerU
-- https://github.com/InternLM/Tutorial
